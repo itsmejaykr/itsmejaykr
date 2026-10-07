@@ -15,6 +15,9 @@
 <!-- ======================= ABOUT ======================= -->
 
 ## 👨‍💻 About Me
+I'm a Data Analyst and aspiring AI/ML Engineer focused on building practical solutions using Python, Machine Learning, Data Analytics, and Generative AI.
+
+I enjoy going beyond analysis and model training — from data preprocessing, EDA, and experimentation to building predictive models, dashboards, AI-powered applications, and intelligent data workflows.
 
 ```python
 class JayKumar:
@@ -367,3 +370,47 @@ Intelligent Data Solutions
 **Turning data into insights and ideas into intelligent solutions.**
 
 </div>
+
+🏆 Experience
+
+🎯 Data Scientist Intern — Analytics Space LLP
+
+1 Year of hands on experience working on real-world Data Analytics, Machine Learning, and Python projects.
+
+---
+
+🎓 Education
+
+Bachelor of Technology — Computer Science Engineering
+
+2021 – 2025
+
+---
+
+📜 Certifications & Achievements
+
+- Data Science / Machine Learning Internship — Analytics Space LLP
+- Published Research Paper on Heart Disease Detection using XGBoost
+- Built multiple Data Analytics & Machine Learning projects
+
+---
+
+🧠 Currently Exploring
+
+- Generative AI & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Advanced SQL & Power BI
+- Machine Learning & Model Deployment
+
+---
+<br>
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+*Let's turn data into something intelligent. 🚀*
+
+</div>
+
